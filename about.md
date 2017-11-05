@@ -18,7 +18,6 @@ title: 关于我
 
 如果你想搭建一个跟我一样的博客，可以看一下Jekyll的相关教程 
 <a href="https://www.bilibili.com/video/av9990819/"> Jekyll 搭建个人博客 </a>
-教程
 
 
 <p> 
